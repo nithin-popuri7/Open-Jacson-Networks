@@ -17,12 +17,9 @@ Visual components and Python
 
 
 ## Experiment:
-![1](https://github.com/nithin-popuri7/Open-Jacson-Networks/assets/94154780/989dd090-9c78-455b-936d-9709d1f099e1)
+![1](https://github.com/nithin-popuri7/Open-Jacson-Networks/assets/94154780/0e33df4b-6cb7-482a-8131-1caa2e427bcb)
 
-
-![2](https://github.com/nithin-popuri7/Open-Jacson-Networks/assets/94154780/da245736-2ee5-42d2-b4f2-f51388d8a6d6)
-
-
+![2](https://github.com/nithin-popuri7/Open-Jacson-Networks/assets/94154780/8178413a-1d2d-4906-b847-f40ec76d8f0b)
 
 ## Program:
 ```
